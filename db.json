@@ -1,0 +1,88 @@
+{
+  "Libary": [
+    {
+      "id": 1,
+      "name": "Angluar 6",
+      "price": "25.0",
+      "quantity": "51",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 2,
+      "name": "Angluar 7",
+      "price": "25.0",
+      "quantity": "5",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 3,
+      "name": "Angluar 8",
+      "price": "25.0",
+      "quantity": "5",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 4,
+      "name": "Angluar 9",
+      "price": "25.0",
+      "quantity": "5",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 5,
+      "name": "python+spark 2.0+hadoop机器学习与大数据实战",
+      "price": "85.0",
+      "quantity": "50",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 6,
+      "name": "python机器学习",
+      "price": "55.0",
+      "quantity": "8",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "id": 7,
+      "name": "Java 10",
+      "price": "55.0",
+      "quantity": "8",
+      "storage_time": "2020-1-23"
+    },
+    {
+      "name": "Angluar 12",
+      "price": "15.0",
+      "quantity": "56",
+      "storage_time": "2020-1-23",
+      "id": 8
+    },
+    {
+      "name": "Angluar 15",
+      "price": "25.0",
+      "quantity": "56",
+      "storage_time": "2020-1-23",
+      "id": 9
+    },
+    {
+      "name": "Angluar 10",
+      "price": "25.0",
+      "quantity": "56",
+      "storage_time": "2020-1-23",
+      "id": 11
+    },
+    {
+      "name": "Java 2",
+      "price": "25",
+      "quantity": "12",
+      "storage_time": "2020-01-01",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "email": "admin1@mail.com",
+      "password": "$2a$10$bhzofYPzd6M6YV47i6ZOBu8g4sU/W9X2HWGGWl00dfiXsAlNkLX/a",
+      "id": 1
+    }
+  ]
+}
