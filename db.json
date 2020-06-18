@@ -81,7 +81,7 @@
   "users": [
     {
       "email": "admin1@mail.com",
-      "password": "$2a$10$bhzofYPzd6M6YV47i6ZOBu8g4sU/W9X2HWGGWl00dfiXsAlNkLX/a",
+      "password": "admin",
       "id": 1
     }
   ]
